@@ -3,7 +3,7 @@
     "description": "Configurable PHP components for your Flarum extension",
     "type": "library",
     "require": {
-        "flarum/core": "^1.0.0"
+        "flarum/core": "^2.0.0-beta"
     },
     "license": "MIT",
     "authors": [
